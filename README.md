@@ -10,8 +10,8 @@
 4.  PC端的python环境
 # 使用方法
 
-1. 使用ArduinoIDE打开*ESP8266_OLED_BMP.ino*文件，并上传至ESP8266
+1. 使用ArduinoIDE打开**ESP8266_OLED_BMP.ino**文件，并上传至ESP8266
 2. 使用串口将ESP8266连接至PC
 3. 在python环境中安装需要的库
-4. 在python脚本*main.py*中设置正确的串口号
+4. 在python脚本**main.py**中设置正确的串口号
 5. 运行python脚本
