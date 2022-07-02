@@ -1,7 +1,7 @@
 # -ESP8266-0.96-OLED-
 # 基于ESP8266和0.96寸OLED的实时显示器
-![Image](https://user-images.githubusercontent.com/59308998/176983555-d20860e5-63a8-4168-a583-27fb1595208d.png)
-![Image](https://user-images.githubusercontent.com/59308998/176983527-b324b229-0e5f-458e-ae36-64e8e8f79215.png)
+![Image](pngs/GY.png)
+![Image](pngs/Ying.png)
 
 # 硬件
 1.  ESP8266 （12E）
